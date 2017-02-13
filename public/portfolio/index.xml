@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Alex Ehrenhofer</title>
+    <link>http://aalolexx.github.io/portfolio/index.xml</link>
+    <description>Recent content in Portfolios on Alex Ehrenhofer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 alex ehrenhofer</copyright>
+    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <atom:link href="http://aalolexx.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>London</title>
+      <link>http://aalolexx.github.io/portfolio/london/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>http://aalolexx.github.io/portfolio/london/</guid>
+      <description>&lt;p&gt;Hej there&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
