@@ -19,14 +19,13 @@
       <description>&lt;p&gt;My two week trip to london city&lt;/p&gt;
 
 &lt;style&gt;
-.image-wall-container .row {
-  margin-top: 30px;
-  margin-bottom: 30px;
-}
+
 .image-wall {
   padding-bottom: 63%;
   background-size:cover;
   background-clip: padding-box;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 .first-a {
   background-image: url(/img/london/IMG_0686.jpg);
@@ -59,24 +58,22 @@
       &lt;div class=&#34;first-b image-wall&#34;&gt;&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-
-&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;row&#34;&gt;
     &lt;div class=&#34;col col-md-6 col-xs-12 &#34;&gt;
       &lt;div class=&#34;first-c image-wall&#34;&gt;&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;col col-md-6 col-xs-12 &#34;&gt;
       &lt;div class=&#34;second-a image-wall&#34;&gt;&lt;/div&gt;
     &lt;/div&gt;
-  &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;row&#34;&gt;
     &lt;div class=&#34;col col-md-6 col-xs-12  &#34;&gt;
       &lt;div class=&#34;second-b image-wall&#34;&gt;&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&#34;col col-md-6 col-xs-12 &#34;&gt;
       &lt;div class=&#34;second-c image-wall&#34;&gt;&lt;/div&gt;
     &lt;/div&gt;
-  &lt;/div&gt;&lt;/p&gt;
+  &lt;/div&gt;
 
 &lt;p&gt;&lt;/div&gt;&lt;/p&gt;
 </description>
